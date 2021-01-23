@@ -1,5 +1,7 @@
 # spotifay
 
+# Info
+  Dont put too much thread 10-15 thread is enough</br>
 # Demo
 ![](https://i.postimg.cc/rsMXkhyH/ezgif-3-5dc6f5941813.gif)  
 
